@@ -1,7 +1,9 @@
-### Hi, nice to meet you!
+Hi o/
 
-I'm Arturo and I like to code, but I actually love to learn new stuff by both looking at documentations and reading other people's *`amazing`* ™️ code.
+My free time goes to many things, such as stripping away layers of complexity
+between myself and the tools I use everyday.
 
-- 🌱 Currently learning: Rust, Bash
-- 🌿 Did something in: C, Java, Python, MATLab, C++
-- ❔ Wishlist: LaTeX, Lua, JS (or TS), PHP, AWK, HTML, CSS
+I lean toward a horizontal approach: learning a lot of random unrelated stuff -
+sometimes shallowly. Learning is great, the problem is memorizing.
+
+The less there is, the better. Code, executable size, command options, dependencies... You name it.
